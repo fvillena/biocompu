@@ -31,7 +31,7 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 
 ## Presentaciones
 
-- Clase 1: 
+- Clase 1: https://docs.google.com/presentation/d/1A67ORRpYdfRrsjaGqT0emLXRXgT-bAyqcNIApB2vvtk
 - Clase 2: 
 - Clase 3: 
 - Clase 4: 
