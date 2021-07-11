@@ -15,3 +15,6 @@ def test_1_1():
 
 def test_1_2():
     _exec_notebook('1.2-dimensionality_reduction.ipynb')
+
+def test_2():
+    _exec_notebook('2-classification.ipynb')
