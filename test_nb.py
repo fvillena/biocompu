@@ -18,3 +18,6 @@ def test_1_2():
 
 def test_2():
     _exec_notebook('2-classification.ipynb')
+
+def test_3():
+    _exec_notebook('3-regression.ipynb')
