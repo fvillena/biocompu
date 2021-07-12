@@ -32,7 +32,7 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 ## Presentaciones
 
 - Clase 1: https://docs.google.com/presentation/d/1A67ORRpYdfRrsjaGqT0emLXRXgT-bAyqcNIApB2vvtk
-- Clase 2: 
+- Clase 2: https://docs.google.com/presentation/d/1hOS2PfT4q-PvVdijMnkQdi6ZZ6aBn7jhjT-MxsNizpM
 - Clase 3: 
 - Clase 4: 
 - Clase 5: 
