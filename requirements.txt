@@ -7,3 +7,4 @@ seaborn==0.10.0
 pytest
 notebook
 plotly==4.14.3
+imbalanced-learn==0.7.0

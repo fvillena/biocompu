@@ -21,3 +21,6 @@ def test_2():
 
 def test_3():
     _exec_notebook('3-regression.ipynb')
+
+def test_4_1():
+    _exec_notebook('4.1-balancing.ipynb')
