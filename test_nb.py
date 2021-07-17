@@ -24,3 +24,6 @@ def test_3():
 
 def test_4_1():
     _exec_notebook('4.1-balancing.ipynb')
+    
+def test_4_2():
+    _exec_notebook('4.2-complete_pipeline.ipynb')
