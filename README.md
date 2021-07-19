@@ -34,5 +34,5 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 - Clase 1: https://docs.google.com/presentation/d/1A67ORRpYdfRrsjaGqT0emLXRXgT-bAyqcNIApB2vvtk
 - Clase 2: https://docs.google.com/presentation/d/1hOS2PfT4q-PvVdijMnkQdi6ZZ6aBn7jhjT-MxsNizpM
 - Clase 3: https://docs.google.com/presentation/d/1aOf-uRA09wm8No1uTGpw7mjzkeWAQfrNpm7_bRELp40
-- Clase 4: 
+- Clase 4: https://docs.google.com/presentation/d/1Z1aqhDvY7-MEfRgLA4sDJj1zNmHJ4JeQ7iKgB1hxBYY
 - Clase 5: 
