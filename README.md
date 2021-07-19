@@ -35,4 +35,6 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 - Clase 2: https://docs.google.com/presentation/d/1hOS2PfT4q-PvVdijMnkQdi6ZZ6aBn7jhjT-MxsNizpM
 - Clase 3: https://docs.google.com/presentation/d/1aOf-uRA09wm8No1uTGpw7mjzkeWAQfrNpm7_bRELp40
 - Clase 4: https://docs.google.com/presentation/d/1Z1aqhDvY7-MEfRgLA4sDJj1zNmHJ4JeQ7iKgB1hxBYY
+  - Cálculo SVM: https://drive.google.com/file/d/10X313TzKh8cvC9j4leiEMJGxqBIky5Oc
+  - Paper Obesidad: https://drive.google.com/file/d/1OTb8kER68CjYGGQ91qLloqnZVmG-6lLM
 - Clase 5: 
