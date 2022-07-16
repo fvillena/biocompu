@@ -28,22 +28,3 @@ Los pasos prácticos del curso se desarrollarán mediante la interfaz de desarro
 ## Ambiente de trabajo en la nube
 
 Si prefieres no trabajar localmente, este repositorio está preparado para ser ejecutado desde un Binder, un ambiente virtual en la nube para trabajar con Jupyter Notebooks: https://mybinder.org/v2/gh/fvillena/biocompu/HEAD
-
-## Notebooks de Deep Learning
-
-Las clases de Deep learning se realizarán en Google Colab
-
-- Image Classification: https://colab.research.google.com/github/fvillena/biocompu/blob/master/5.1-image_classification.ipynb
-- Image Segmentation: https://colab.research.google.com/github/fvillena/biocompu/blob/master/5.2-image_segmentation.ipynb
-
-## Presentaciones
-
-- Clase 1: https://docs.google.com/presentation/d/1A67ORRpYdfRrsjaGqT0emLXRXgT-bAyqcNIApB2vvtk
-- Clase 2: https://docs.google.com/presentation/d/1hOS2PfT4q-PvVdijMnkQdi6ZZ6aBn7jhjT-MxsNizpM
-- Clase 3: https://docs.google.com/presentation/d/1aOf-uRA09wm8No1uTGpw7mjzkeWAQfrNpm7_bRELp40
-- Clase 4: https://docs.google.com/presentation/d/1Z1aqhDvY7-MEfRgLA4sDJj1zNmHJ4JeQ7iKgB1hxBYY
-  - Cálculo SVM: https://drive.google.com/file/d/10X313TzKh8cvC9j4leiEMJGxqBIky5Oc
-  - Paper Obesidad: https://drive.google.com/file/d/1OTb8kER68CjYGGQ91qLloqnZVmG-6lLM
-- Clase 5: 
-  - https://drive.google.com/file/d/1i2G6CmRQb0953ziN9tZKw_srfdgZ2Emb
-  - https://drive.google.com/file/d/1rreuGQsCWW5D0Z9iIx8U7bl6CKDCA40i
