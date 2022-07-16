@@ -1,8 +1,8 @@
 # Bioinformática y Biología Computacional: Machine Learning
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/biocompu/HEAD)
-[![Build Status](https://www.travis-ci.com/fvillena/mae2.svg?branch=master)](https://www.travis-ci.com/fvillena/biocompu)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/biocompu/2022)
+
 
 Módulo de Machine Learning del Diplomado en Bioinformática y Biología Computacional de la Universidad de Chile. En este repositorio estarán disponibles todos los recursos que se generen en el curso.
 
