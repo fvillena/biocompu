@@ -42,4 +42,4 @@ Laboratorios
 
 ## Clases teóricas
 
-1. 
+1. https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
