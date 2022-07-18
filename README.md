@@ -39,3 +39,7 @@ Clases prácticas
 Laboratorios
 
 1. https://colab.research.google.com/drive/1clnnaKKSctvw2zzet15jOaBP-S4n7dX0?usp=sharing
+
+## Clases teóricas
+
+1. 
