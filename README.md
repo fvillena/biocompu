@@ -28,3 +28,14 @@ Los pasos prácticos del curso se desarrollarán mediante la interfaz de desarro
 ## Ambiente de trabajo en la nube
 
 Si prefieres no trabajar localmente, este repositorio está preparado para ser ejecutado desde un Binder, un ambiente virtual en la nube para trabajar con Jupyter Notebooks: https://mybinder.org/v2/gh/fvillena/biocompu/HEAD
+
+## Ambiente de trabajo en Google Colab
+
+Clases prácticas
+
+1. https://colab.research.google.com/drive/16xzoEZ8oNvtmgDMMOdtNMAdyltz7MWWZ?usp=sharing
+
+
+Laboratorios
+
+1. https://colab.research.google.com/drive/1clnnaKKSctvw2zzet15jOaBP-S4n7dX0?usp=sharing
