@@ -43,3 +43,4 @@ Laboratorios
 ## Clases teóricas
 
 1. https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
+2. https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
