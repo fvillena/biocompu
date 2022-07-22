@@ -33,14 +33,19 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 
 Clases prácticas
 
-1. https://colab.research.google.com/drive/16xzoEZ8oNvtmgDMMOdtNMAdyltz7MWWZ?usp=sharing
-
+Clase 1: https://colab.research.google.com/drive/16xzoEZ8oNvtmgDMMOdtNMAdyltz7MWWZ?usp=sharing
+Clase 2: https://colab.research.google.com/drive/1y9jGy5Yek7HD1i2SkmHHbeZBOuvZ_ys8?usp=sharing
+Clase 3: https://colab.research.google.com/drive/1joqhQHO6AXL52zHCkrOVsicMNz4hxTnh?usp=sharing
 
 Laboratorios
 
-1. https://colab.research.google.com/drive/1clnnaKKSctvw2zzet15jOaBP-S4n7dX0?usp=sharing
+Laboratorio 1:  https://colab.research.google.com/drive/1clnnaKKSctvw2zzet15jOaBP-S4n7dX0?usp=sharing
+Laboratorio 2:  https://colab.research.google.com/drive/1e6hAp6LM0vNH_-f9yDGofvoLi2RU-adQ?usp=sharing
+Laboratorio 3:  https://colab.research.google.com/drive/1ZtsL2KeExjqTTiTiAJ5A1Nx8eenBbN3l?usp=sharing
+
 
 ## Clases teóricas
 
 1. https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
 2. https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
+3. 
