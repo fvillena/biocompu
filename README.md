@@ -50,8 +50,8 @@ Laboratorio 3:  https://colab.research.google.com/drive/1ZtsL2KeExjqTTiTiAJ5A1Nx
 
 ### Clases teóricas
 
-1. Clase Teórica 1: https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
+Clase Teórica 1: https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
 
-2. Clase Teórica 2: https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
+Clase Teórica 2: https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
 
-3. Clase Teórica 3: https://docs.google.com/presentation/d/1To2xgp_cFBKJjhB85JMYOv36oCFpsel8pcJ84rXKwVM/edit?usp=sharing
+Clase Teórica 3: https://docs.google.com/presentation/d/1To2xgp_cFBKJjhB85JMYOv36oCFpsel8pcJ84rXKwVM/edit?usp=sharing
