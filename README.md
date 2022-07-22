@@ -33,9 +33,11 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 
 Clases prácticas
 
-Clase 1: https://colab.research.google.com/drive/16xzoEZ8oNvtmgDMMOdtNMAdyltz7MWWZ?usp=sharing
-Clase 2: https://colab.research.google.com/drive/1y9jGy5Yek7HD1i2SkmHHbeZBOuvZ_ys8?usp=sharing
-Clase 3: https://colab.research.google.com/drive/1joqhQHO6AXL52zHCkrOVsicMNz4hxTnh?usp=sharing
+Clase Práctica 1: https://colab.research.google.com/drive/16xzoEZ8oNvtmgDMMOdtNMAdyltz7MWWZ?usp=sharing
+
+Clase Práctica 2: https://colab.research.google.com/drive/1y9jGy5Yek7HD1i2SkmHHbeZBOuvZ_ys8?usp=sharing
+
+Clase Práctica 3: https://colab.research.google.com/drive/1joqhQHO6AXL52zHCkrOVsicMNz4hxTnh?usp=sharing
 
 Laboratorios
 
@@ -48,8 +50,8 @@ Laboratorio 3:  https://colab.research.google.com/drive/1ZtsL2KeExjqTTiTiAJ5A1Nx
 
 ## Clases teóricas
 
-1. https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
+1. Clase Teórica 1: https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pfmCUjVoKN-qJnjybIIEqXo/edit?usp=sharing
 
-2. https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
+2. Clase Teórica 2: https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
 
-3. 
+3. Clase Teórica 3: https://docs.google.com/presentation/d/1To2xgp_cFBKJjhB85JMYOv36oCFpsel8pcJ84rXKwVM/edit?usp=sharing
