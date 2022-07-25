@@ -39,6 +39,8 @@ Clase Práctica 2: https://colab.research.google.com/drive/1y9jGy5Yek7HD1i2SkmHH
 
 Clase Práctica 3: https://colab.research.google.com/drive/1joqhQHO6AXL52zHCkrOVsicMNz4hxTnh?usp=sharing
 
+Clase práctica 4: https://colab.research.google.com/github/fvillena/biocompu/blob/2022/clases%20practicas/Clase_pr%C3%A1ctica_4.ipynb
+
 ### Laboratorios
 
 Laboratorio 1:  https://colab.research.google.com/drive/1clnnaKKSctvw2zzet15jOaBP-S4n7dX0?usp=sharing
