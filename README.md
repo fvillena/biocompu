@@ -63,3 +63,7 @@ Clase Teórica 1: https://docs.google.com/presentation/d/1GRYDRQLnCevlrmKJKDl4pf
 Clase Teórica 2: https://docs.google.com/presentation/d/1np03aHlK1zBDLbQyTfMfIJbzTdo60U2rpvqfw-rxomc/edit?usp=sharing
 
 Clase Teórica 3: https://docs.google.com/presentation/d/1To2xgp_cFBKJjhB85JMYOv36oCFpsel8pcJ84rXKwVM/edit?usp=sharing
+
+Clase Teórica 4: https://docs.google.com/presentation/d/1_XkHHU3HCaiwwNERiSpxFtkCGUHkPschOBJ51sqouvc/edit?usp=sharing
+
+Clase Teórica 5: https://docs.google.com/presentation/d/1OGZm2MfyO0p4JL0-q5Cse5841TTKOx35SlWZ72sHY7I/edit?usp=sharing
