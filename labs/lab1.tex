@@ -1,0 +1,42 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{listings}
+
+\title{Ajuste de modelos}
+\author{Fabián Villena y Felipe Arias}
+\date{Julio 2023}
+
+\begin{document}
+
+\maketitle
+
+Se le solicita ajustar (o entrenar) un modelo de aprendizaje automático para predecir etiquetas sobre ejemplos nuevos.
+
+En particular, trabajaremos con el \textit{Pima Indians Diabetes Dataset}. Este conjunto de datos tiene como objetivo predecir si un paciente tiene o no tiene diabetes en base a una serie de características. La muestra consiste en datos de mujeres de al menos 21 años de descendencia indígena del grupo \textit{Pima}. Específicamente, existen varios atributos médicos y una variable objetivo, la columna \textit{Outcome}. Esta columna alcanza un valor igual a 1 cuando la paciente posee diabetes, mientras que es 0 cuando no posee la enfermedad.
+
+Deben realizar un flujo clásico al momento de crear modelos de aprendizaje automático.
+
+El conjunto de datos se encuentra en la siguiente dirección:
+
+\begin{center}
+    \url{https://github.com/fvillena/biocompu/blob/2023/data/diabetes.csv}
+\end{center}
+
+\section*{Preguntas}
+
+Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
+
+\begin{enumerate}
+	\item ¿Cuántas instancias y cuántos atributos contiene el conjunto de datos?
+    \item ¿Cuál es la frecuencia de ejemplos en la variable objetivo \textit{Outcome}?
+    \item ¿Cuántos pacientes mayores a 40 años padecen de diabetes?
+    \item Separe el conjunto de datos en un subconjunto de entrenamiento y uno de prueba
+    \item Ajuste un modelo de clasificación con el subconjunto de entrenamiento.
+    \item Prediga utilizando el modelo ajustado sobre el subconjunto de prueba.
+    \item Calcule la métrica de \textit{accuracy} del modelo sobre el conjunto de prueba.
+\end{enumerate}
+
+\end{document}
