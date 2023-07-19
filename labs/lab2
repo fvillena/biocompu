@@ -1,0 +1,39 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{listings}
+
+\title{Clasificación}
+\author{Fabián Villena y Felipe Arias}
+\date{Julio 2023}
+
+\begin{document}
+
+\maketitle
+
+Se le pide seleccionar el mejor modelo a la hora de predecir el tipo de medicamento adecuado para un paciente.
+
+En particular, trabajaremos con un conjunto de datos que contiene información sobre la clasificación de medicamentos basada en la información general del paciente y su diagnóstico. La idea es construir modelos de aprendizaje automático para predecir el tipo de fármaco (\textit{Drug}) que podría ser adecuado para el paciente.
+
+Los resultados esperados son que puedan realizar un flujo clásico al momento de crear modelos de aprendizaje supervisado. 
+
+\begin{center}
+    \url{https://github.com/fvillena/biocompu/blob/2023/data/drug.csv}
+\end{center}
+
+\section*{Preguntas}
+
+Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
+
+\begin{enumerate}
+	\item Utilizar la técnica de \textit{one-hot encoding} para transformar variables categoricas a numéricas.
+    \item Separe el conjunto de datos en un subconjunto de entrenamiento y prueba
+    \item Entrene múltiples modelos de clasificación basados en Support Vector Machines con distintos hiperparámetros.
+    \item Prediga sobre el subconjunto de prueba utilizando cada uno de los modelos ajustados.
+    \item Calcule al menos dos métricas de rendimiento para cada uno de los modelos de clasificación.
+    \item Seleccione la mejor combinación de hiperparámetros.
+\end{enumerate}
+
+\end{document}
