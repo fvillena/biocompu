@@ -25,9 +25,13 @@ A lo largo de todo el curso utilizaremos el lenguaje de programación Python con
 
 Los pasos prácticos del curso se desarrollarán mediante la interfaz de desarrollo Jupyter Notebook. Les recomentamos leer esta página de documentación para conocer rápidamente cómo utilizar Jupyter [https://jupyter.readthedocs.io/en/latest/running.html](https://jupyter.readthedocs.io/en/latest/running.html)
 
-## Ambiente de trabajo en la nube
+### Codespaces
 
-Si prefieres no trabajar localmente, este repositorio está preparado para ser ejecutado desde un Binder, un ambiente virtual en la nube para trabajar con Jupyter Notebooks: https://mybinder.org/v2/gh/fvillena/biocompu/HEAD
+Si prefieres no trabajar localmente y tienes una cuenta en GitHub, este repositorio está preparado para ser ejecutado en GitHub Codespaces un ambiente virtual de VS Code en la nube: https://codespaces.new/fvillena/biocompu
+
+### Binder
+
+Si prefieres no trabajar localmente y tampoco quieres una cuenta en GitHub, este repositorio está preparado para ser ejecutado desde un Binder, un ambiente virtual en la nube para trabajar con Jupyter Notebooks: https://mybinder.org/v2/gh/fvillena/biocompu/HEAD
 
 ## Material docente
 El material docente asociado al curso se encuentra almacenado en la siguiente dirección: https://dcc.uchile.cl/~fvillena/biocompu/
