@@ -1,0 +1,37 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{listings}
+
+\title{Agrumapiento}
+\author{Fabián Villena y Felipe Arias}
+\date{Julio 2023}
+
+\begin{document}
+
+\maketitle
+
+Se le pide detectar la existencia de grupos de objetos en un conjunto de datos de características de semillas.
+
+En particular, trabajaremos con un conjunto de datos que contiene múltiples atributos físicos de semillas y que se cree que tiene 3 variedades, pero no se tienen las clases de cada una de las semillas.
+
+Los resultados esperados son que apliquen una técnica de agrupamiento y sugieran el grupo al cual pertenece cada una de las semillas. 
+
+\begin{center}
+    \url{https://github.com/fvillena/biocompu/blob/2023/data/seeds.csv}
+\end{center}
+
+\section*{Preguntas}
+
+Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
+
+\begin{enumerate}
+	\item Verifique y preprocese si es necesario las características.
+    \item Realice agrupamiento con los algoritmos \textit{k-Means} y Agrupamiento Jerárquico utilizando distintas cantidades de grupos.
+    \item Utilice el método del codo para seleccionar una buena cantidad de grupos.
+    \item Explore los grupos sugeridos por los métodos ajustados con la cantidad de grupos encontrada por el método del codo.
+\end{enumerate}
+
+\end{document}
