@@ -8,3 +8,4 @@ pytest
 notebook
 plotly
 imbalanced-learn
+catboost
