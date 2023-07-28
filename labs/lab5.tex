@@ -1,0 +1,39 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{listings}
+
+\title{\textit{Deep learning}}
+\author{Fabián Villena y Felipe Arias}
+\date{Julio 2023}
+
+\begin{document}
+
+\maketitle
+
+Se le pide detectar la malignidad de una muestra histológica de un paciente en función de parámetros morfológicos de los núcleos de las células \footnote{\url{https://doi.org/10.1117/12.148698}}.
+
+En particular, trabajaremos con un conjunto de datos que contiene múltiples atributos morfológicos de núcleos celulares de células de una muestra histológica de un tejido tumoral de un paciente. Debe predecir la columna \textit{diagnosis}, la cual puede pertenecer a la clase benigno (\textit{B}) o maligno (\textit{M}).
+
+Los resultados esperados son que apliquen una técnica basada en \textit{Deep Learning} para clasificar la malignidad del tumor dadas las múltiples características nucleares de las células.  El conjunto de datos se encuentra disponible en la siguiente dirección:
+
+\begin{center}
+    \url{https://github.com/fvillena/biocompu/blob/2023/data/wisconsin.csv}
+\end{center}
+
+\section*{Preguntas}
+
+Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
+
+\begin{enumerate}
+	\item Verifique y preprocese si es necesario las características.
+    \item Separe el conjunto de datos en un subconjunto de entrenamiento y prueba
+    \item Diseñe una red neuronal artificial del tipo Totalmente Conectada que resuelva la tarea.
+    \item Entrene la red neuronal artificial con los datos del subconjunto de entrenamiento.
+    \item Prediga sobre el subconjunto de prueba utilizando la red neuronal artificial ajustada.
+    \item Calcule al menos dos métricas de rendimiento para el modelo.
+\end{enumerate}
+
+\end{document}
