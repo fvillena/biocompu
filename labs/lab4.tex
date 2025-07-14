@@ -5,9 +5,9 @@
 \usepackage{hyperref}
 \usepackage{listings}
 
-\title{Agrumapiento}
-\author{Fabián Villena y Felipe Arias}
-\date{Julio 2023}
+\title{Agrupamiento}
+\author{Fabián Villena}
+\date{Julio 2025}
 
 \begin{document}
 
@@ -20,7 +20,7 @@ En particular, trabajaremos con un conjunto de datos que contiene múltiples atr
 Los resultados esperados son que apliquen una técnica de agrupamiento y sugieran el grupo al cual pertenece cada una de las semillas. 
 
 \begin{center}
-    \url{https://github.com/fvillena/biocompu/blob/2023/data/seeds.csv}
+    \url{https://raw.githubusercontent.com/fvillena/biocompu/2024/data/seeds.csv}
 \end{center}
 
 \section*{Preguntas}
@@ -28,10 +28,10 @@ Los resultados esperados son que apliquen una técnica de agrupamiento y sugiera
 Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
 
 \begin{enumerate}
-	\item Verifique y preprocese si es necesario las características.
+    \item Verifique y preprocese\footnote{Normalice los rangos de las variables con \url{https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html}}\footnote{Acá puede ver cómo asignar el arreglo transformado al dataframe original \url{https://stackoverflow.com/questions/35723472/how-to-use-sklearn-fit-transform-with-pandas-and-return-dataframe-instead-of-num}} si es necesario las características.
     \item Realice agrupamiento con los algoritmos \textit{k-Means} y Agrupamiento Jerárquico utilizando distintas cantidades de grupos.
-    \item Utilice el método del codo para seleccionar una buena cantidad de grupos.
-    \item Explore los grupos sugeridos por los métodos ajustados con la cantidad de grupos encontrada por el método del codo.
+    \item Utilice el método del codo para seleccionar una buena cantidad de grupos sólo para \textit{k-Means}.
+    \item Explore los grupos sugeridos por los métodos ajustados con la cantidad de grupos encontrada por el método del codo.\footnote{Visualice pares de atributos y pinte los puntos en función del grupo encontrado por el modelo. Sugiero que utilicen \url{https://seaborn.pydata.org/generated/seaborn.pairplot.html}}
 \end{enumerate}
 
 \end{document}
