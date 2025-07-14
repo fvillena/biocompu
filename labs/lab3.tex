@@ -6,8 +6,8 @@
 \usepackage{listings}
 
 \title{Regresión}
-\author{Fabián Villena y Felipe Arias}
-\date{Julio 2023}
+\author{Fabián Villena}
+\date{Julio 2025}
 
 \begin{document}
 
@@ -17,10 +17,10 @@ Se le pide seleccionar el mejor modelo a la hora de predecir el índice de masa 
 
 En particular, trabajaremos con un conjunto de datos que contiene información sobre hábitos alimenticios y condición física recopilados a través de una encuesta electrónica en países latinoamericanos. Usted deberá predecir sobre el atributo \texttt{BMI} (\textit{Body Mass Index})
 
-Los resultados esperados son que puedan seleccionar la mejor combinación de hiperparámetros y modelos utilizando técnicas de validación de modelos. 
+Se espera que puedan seleccionar la mejor combinación de hiperparámetros y modelos utilizando técnicas de validación de modelos. 
 
 \begin{center}
-    \url{https://github.com/fvillena/biocompu/blob/2023/data/obesity.csv}
+    \url{https://raw.githubusercontent.com/fvillena/biocompu/2024/data/obesity.csv}
 \end{center}
 
 \section*{Preguntas}
@@ -28,10 +28,10 @@ Los resultados esperados son que puedan seleccionar la mejor combinación de hip
 Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
 
 \begin{enumerate}
-	\item Verifique y preprocese si es necesario las características.
+    \item Verifique y preprocese\footnote{One-hot encoding} si es necesario las características.
     \item Separe el conjunto de datos en un subconjunto de entrenamiento y prueba.
     \item Genere una grilla de hiperparámetros para el algoritmo \textit{Random Forests}.
-    \item Optimice los hiperparámetros del algoritmo Random Forests sobre el subconjunto de entrenamiento utilizando la técnica de \textit{Grid-Search} y \textit{Cross-Validation} para validar los resultados.
+    \item Optimice los hiperparámetros del algoritmo Random Forests sobre el subconjunto de entrenamiento utilizando la técnica de \textit{Grid-Search} y \textit{Cross-Validation} para validar los resultados.\footnote{La clase \texttt{GridSearchCV} realiza ambos procesos en un sólo paso: \url{https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html}}
     \item Prediga sobre el subconjunto de prueba utilizando un modelo ajustado con los mejores hiperparámetros.
     \item Calcule al menos dos métricas de rendimiento para las predicciones realizadas anteriormente.
 \end{enumerate}
