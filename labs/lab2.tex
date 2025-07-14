@@ -5,9 +5,9 @@
 \usepackage{hyperref}
 \usepackage{listings}
 
-\title{Clasificación}
-\author{Fabián Villena y Felipe Arias}
-\date{Julio 2023}
+\title{Support Vector Machines}
+\author{Fabián Villena}
+\date{Julio 2025}
 
 \begin{document}
 
@@ -20,7 +20,7 @@ En particular, trabajaremos con un conjunto de datos que contiene información s
 Los resultados esperados son que puedan realizar un flujo clásico al momento de crear modelos de aprendizaje supervisado. 
 
 \begin{center}
-    \url{https://github.com/fvillena/biocompu/blob/2023/data/drug.csv}
+    \url{https://raw.githubusercontent.com/fvillena/biocompu/refs/heads/2024/data/drug.csv} \footnote{Si quiere revisar el conjunto de datos en su navegador, puede visitar \url{https://github.com/fvillena/biocompu/blob/2024/data/drug.csv}}
 \end{center}
 
 \section*{Preguntas}
@@ -28,11 +28,11 @@ Los resultados esperados son que puedan realizar un flujo clásico al momento de
 Responda las siguientes preguntas en un \textit{Jupyter Notebook} con código desarrollado en el lenguaje de programación Python.
 
 \begin{enumerate}
-	\item Utilizar la técnica de \textit{one-hot encoding} para transformar variables categoricas a numéricas.
+    \item Utilizar la técnica de \textit{one-hot encoding} para transformar variables categoricas a numéricas.\footnote{Esta técnica sólo debe ser aplicada a los atributos, no debe ser aplicada a la etiqueta.}
     \item Separe el conjunto de datos en un subconjunto de entrenamiento y prueba
     \item Entrene múltiples modelos de clasificación basados en Support Vector Machines con distintos hiperparámetros.
     \item Prediga sobre el subconjunto de prueba utilizando cada uno de los modelos ajustados.
-    \item Calcule al menos dos métricas de rendimiento para cada uno de los modelos de clasificación.
+    \item Calcule al menos dos métricas de rendimiento para cada uno de los modelos de clasificación.\footnote{Poner atención al argumento \textit{average} de las funciones. Puede visitar la documentación de las función \texttt{precision\_score} para mayor claridad: \url{https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html}}
     \item Seleccione la mejor combinación de hiperparámetros.
 \end{enumerate}
 
