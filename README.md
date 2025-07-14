@@ -34,4 +34,4 @@ Si prefieres no trabajar localmente y tienes una cuenta en GitHub, este reposito
 Si prefieres no trabajar localmente y tampoco quieres una cuenta en GitHub, este repositorio está preparado para ser ejecutado desde un Binder, un ambiente virtual en la nube para trabajar con Jupyter Notebooks: https://mybinder.org/v2/gh/fvillena/biocompu/HEAD
 
 ## Material docente
-El material docente asociado al curso se encuentra almacenado en la siguiente dirección: https://dcc.uchile.cl/~fvillena/biocompu/
+El material docente asociado al curso se encuentra almacenado en la siguiente dirección: [https://dcc.uchile.cl/~fvillena/biocompu/](https://villena.cl/teaching/biocompu-2025/)
