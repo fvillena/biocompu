@@ -9,3 +9,6 @@ notebook
 plotly
 imbalanced-learn
 catboost
+openai
+pydantic
+datasets
