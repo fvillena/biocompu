@@ -11,4 +11,4 @@ imbalanced-learn
 catboost
 openai
 pydantic
-datasets
+datasets==3.6.0
